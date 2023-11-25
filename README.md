@@ -18,8 +18,6 @@ the libraries i used are iostream, string, algorithm, ctime
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
-
 - more error handling with the inputs
 - make the random word able to pick from a file or an input
 - make a more user freindly UI
