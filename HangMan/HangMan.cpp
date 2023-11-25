@@ -9,7 +9,7 @@
 int main()
 {
     srand((int)time(0));
-    std::cout << "press enter to continue";
+    std::cout << "press enter to play";
     std::cin.ignore();
     std::string secretWords[10] = {"peace", "peas", "christmas", "joy", "alphabet", "cans", "seven", "eight", "nine", "ten"};
     std::string secret = secretWords[rand() % 10];
